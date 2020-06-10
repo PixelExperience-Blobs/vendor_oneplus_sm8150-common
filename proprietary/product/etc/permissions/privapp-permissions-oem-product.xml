@@ -14,10 +14,9 @@
         <permission name="android.permission.WRITE_APN_SETTINGS"/>
     </privapp-permissions>
 
-    <privapp-permissions package="com.oneplus.coreservice">
-        <permission name="android.permission.FORCE_STOP_PACKAGES"/>
-        <permission name="android.permission.INTERACT_ACROSS_USERS"/>
-        <permission name="android.permission.REBOOT"/>
+    <!-- Additional permissions on top of privapp-permissions-platform.xml -->
+    <privapp-permissions package="com.google.android.apps.turbo">
+        <permission name="android.permission.DUMP"/>
     </privapp-permissions>
 
     <privapp-permissions package="com.qualcomm.qcrilmsgtunnel">
