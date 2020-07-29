@@ -258,14 +258,6 @@ altecom_es
 21402
 
 
-jazztel_es
-2140321403503
-
-
-jazztel_es
-2140321403504
-
-
 mobiler_es
 2140321403508
 
@@ -281,6 +273,10 @@ mobiler_es
 %
 21403IMSI=2140359
 214032140359
+
+
+jazztel_es
+21403JAZZTEL
 
 	orange_es
 21403
@@ -402,9 +398,6 @@ jazztel_es
 
 22005
 22005
-%
-freedommobile_ca
-22201"FFFFFF00
 &
 22201SPN=IUSACELL
 22201IUSACELL
@@ -442,9 +435,6 @@ $
 
 windtre99_it
 22288"99
-%
-freedommobile_ca
-22288"FFFFFF00
 
 windtre88_it
 22288222880
@@ -885,6 +875,9 @@ TELENOR SE
 
 24024
 24024
+
+google_5g_lab_tw
+24099
 .
 24201IMSI=24201700XXXXXXX
 2420124201700
@@ -1092,6 +1085,9 @@ telekom_de
 
 truphone_zz
 26242
+
+google_5g_lab_us
+262840
 
 26801
 26801
@@ -1456,9 +1452,6 @@ Fi Network
 
 sprintwholesale_us
 310120
-0
-310130SPN=CAROLINAWEST
-310130CAROLINAWEST
 
 310130
 310130
@@ -2064,6 +2057,9 @@ MOSAIC RPT
 
 311740
 311740
+
+cellcommno_us
+311840"C1
 
 
 cellcom_us
@@ -2140,6 +2136,9 @@ $
 
 firstnet_us
 313140
+
+spectrum_data_us
+313450
 
 spectrum_cbrs_us
 314020
@@ -4574,14 +4573,14 @@ $
 
 72236
 72236
-
-72402
+
+tim_br
 72402
-
-72403
+
+tim_br
 72403
-
-72404
+
+tim_br
 72404
 
 72405
@@ -4774,4 +4773,4 @@ $
 74810
 
 bics_be
-90158£’ßÀJ
+90158­’ßÀJ
