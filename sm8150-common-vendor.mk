@@ -1712,6 +1712,7 @@ PRODUCT_PACKAGES += \
     libsdm-disp-vndapis \
     vendor.qti.hardware.capabilityconfigstore@1.0 \
     libsdm-disp-apis.qti \
+    CarrierSettings \
     NxpNfcNci \
     NxpSecureElement \
     OPSoundTuner \
